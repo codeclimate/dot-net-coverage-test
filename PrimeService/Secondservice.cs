@@ -2,7 +2,7 @@ using System;
 
 namespace Prime.Services
 {
-    public class SecondService.cs
+    public class SecondService
     {
         public bool IsPrime(int candidate)
         {
